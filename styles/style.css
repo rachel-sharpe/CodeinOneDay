@@ -1,0 +1,19 @@
+h1 {
+	font-family: Arial,san-serif;
+	background-color: pink;
+	text-align: center; 
+
+}
+p{
+	font-weight: 800;
+}
+
+#box-model{
+	border: 10px solid black;
+	background-color: yellow;
+	height: 100px;
+	width: 500px;
+	padding: 100px;
+	margin: 50px;
+}
+
